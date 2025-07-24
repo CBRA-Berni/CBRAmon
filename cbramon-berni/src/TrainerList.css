@@ -1,0 +1,15 @@
+.trainer-list {
+  list-style: none;
+  padding: 0;
+}
+
+.trainer-list li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.trainer-list img {
+  border-radius: 50%;
+  margin-right: 10px;
+}
